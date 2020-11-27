@@ -1,0 +1,48 @@
+li{
+  list-style-type: square;
+}
+#profile-page{
+  background-color: rgb(4, 63, 63);
+  color: white;
+  font-weight: bold;
+  width: 500px;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding:20px ;
+
+}
+#profile-page #customer-profile span,span{
+   font-size: large;
+   color: rgb(160, 91, 224);
+
+}
+
+#profile-page img{
+  border-radius: 50%;
+  margin-left: 20%;
+}
+button{
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-weight: bold;
+  color: white;
+  background-color: rgb(160, 91, 224);
+}
+.order-items{
+  margin-top: 10px;
+}
+.container{
+  background-color:rgb(4, 63, 63) ;
+  color: white;
+  font-weight: bold;
+  width: 600px;
+  padding: 20px;
+}
+.text-center{
+  padding-bottom: 20px;
+}
+#profile-pages-btn button{
+  float: right;
+}
